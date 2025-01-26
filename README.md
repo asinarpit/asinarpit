@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Front End Developer</p>
+<p align="left">I'm a Full Stack Developer</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ College Student on a Coding Journey 😊<br>📚 Currently immersing myself in the world of React<br>🎯 Goal: Achieve mastery in React to craft powerful and efficient user interfaces.<br>🎲 Fun fact: The inaugural website, crafted by Tim Berners-Lee in 1991, still resides online! Explore the roots of the internet at info.cern.ch and be part of digital history. 🌐✨</p>
+<p align="left">✨ College Student on a Coding Journey 😊<br>📚 Currently diving deep into the world of Full Stack Development<br>🎯 Goal: Master both front-end and back-end technologies to build scalable and dynamic applications.<br>🎲 Fun fact: The inaugural website, crafted by Tim Berners-Lee in 1991, still resides online! Explore the roots of the internet at info.cern.ch and be part of digital history. 🌐✨</p>
 
 ###
 
@@ -35,9 +35,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
@@ -58,5 +62,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
